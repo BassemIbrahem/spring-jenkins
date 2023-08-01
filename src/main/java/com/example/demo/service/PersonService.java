@@ -29,7 +29,7 @@ public class PersonService {
 	 */
 	@Autowired
 	public PersonService(PersonDao personDao) {
-		System.out.println("adcfdacadscad");
+		System.out.println("scad");
 		this.personDao = personDao;
 	}
 	
