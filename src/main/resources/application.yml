@@ -1,0 +1,7 @@
+spring:
+ application:
+  name: demo
+ cache:
+  redis:
+   time-to-live: 100S
+  type: simple
