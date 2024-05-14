@@ -29,7 +29,7 @@ public class PersonService {
 	 */
 	@Autowired
 	public PersonService(PersonDao personDao) {
-		System.out.println("adf");
+		System.out.println("ad");
 		this.personDao = personDao;
 	}
 	
